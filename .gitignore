@@ -1,0 +1,17 @@
+# Python: Byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+dist/
+build/
+*.egg-info/
+
+Virtual Env
+venv/
+env/
+.venv/
+
+# Editor
+.vscode/
