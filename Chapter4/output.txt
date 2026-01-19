@@ -1,0 +1,2 @@
+(1, 2, 3, 4)
+Tuple written to output.txt (1, 2, 3, 4)
