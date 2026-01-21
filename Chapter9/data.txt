@@ -1,0 +1,5 @@
+Hello, World!
+Welcome to file handling in Python, Enjoy your stay!
+This is a sample file.
+Goodbye!
+Appending a new line to the file.
