@@ -1,0 +1,1 @@
+print("Running Chapter24.package package as a script")   

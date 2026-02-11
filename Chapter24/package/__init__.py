@@ -1,0 +1,1 @@
+print("Initializing Chapter24.package package")
